@@ -45,4 +45,33 @@ Whether you're a server administrator testing vulnerabilities or an adventurous 
 *(Replace placeholders with your actual mod images)*
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400?text=UI-Utils%2B%2B+GUI" alt="UI-Utils++ GUI
+  <img src="https://via.placeholder.com/800x400?text=UI-Utils%2B%2B+GUI" alt="UI-Utils++ GUI">
+</p>
+
+---
+
+## ⚙️ Installation
+1. Download **Fabric Loader** for Minecraft **1.21.4**  
+2. Install **Fabric API** for the matching version  
+3. Place `ui-utils++.jar` into your Minecraft `mods` folder  
+4. Launch Minecraft and configure the mod in the **Mod Menu**
+
+---
+
+## 🎯 Use Cases
+- **Server Security Testing** — Safely simulate duplication exploits before they are used maliciously.
+- **Minecraft Experimentation** — Explore game-breaking bugs without needing multiple mods.
+- **Exploit Patching Research** — Reproduce and verify bug reports faster.
+
+---
+
+## 📬 Contact & Support
+- **Discord:** `YourDiscordName`  
+- **GitHub Issues:** [Submit Bug Report](https://github.com/USERNAME/REPO/issues)  
+- **Email:** youremail@example.com  
+
+---
+
+<p align="center">
+  <sub>⚠️ This mod is intended for educational & security testing purposes only. Use responsibly.</sub>
+</p>
