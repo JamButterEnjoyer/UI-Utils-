@@ -1,4 +1,4 @@
-<h1 align="center">💎 Duplication+ Pro (Upgraded UI-Utils) 💎</h1>
+<h1 align="center">💎 UI-Utils++ (Upgraded UI-Utils) 💎</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Minecraft-1.20%2B-green?style=for-the-badge&logo=minecraft" alt="Minecraft Version">
@@ -14,10 +14,10 @@
 ---
 
 ## 📜 Overview
-**Duplication+ Pro** is the next evolution of the popular **UI-Utils** mod.  
+**UI-Utils++** is the next evolution of the popular **UI-Utils** mod.  
 This upgraded version introduces a **dedicated GUI for testing exploits**, alongside a set of **powerful new tools** tailored to the latest Minecraft duplication glitches and chat-based exploits.
 
-Whether you're a server administrator testing vulnerabilities or an adventurous player experimenting in singleplayer, Duplication+ Pro gives you everything in one sleek interface.
+Whether you're a server administrator testing vulnerabilities or an adventurous player experimenting in singleplayer, UI-Utils++ gives you everything in one sleek interface.
 
 ---
 
