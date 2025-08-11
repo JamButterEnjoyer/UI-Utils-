@@ -41,15 +41,6 @@ Whether you're a server administrator testing vulnerabilities or an adventurous 
 
 ---
 
-## 🖼 Screenshots
-*(Replace placeholders with your actual mod images)*
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=UI-Utils%2B%2B+GUI" alt="UI-Utils++ GUI">
-</p>
-
----
-
 ## ⚙️ Installation
 1. Download **Fabric Loader** for Minecraft **1.21.4**  
 2. Install **Fabric API** for the matching version  
@@ -66,10 +57,7 @@ Whether you're a server administrator testing vulnerabilities or an adventurous 
 ---
 
 ## 📬 Contact & Support
-- **Discord:** `YourDiscordName`  
-- **GitHub Issues:** [Submit Bug Report](https://github.com/USERNAME/REPO/issues)  
-- **Email:** youremail@example.com  
-
+- **Discord:** `jambutterenjoyer`  
 ---
 
 <p align="center">
