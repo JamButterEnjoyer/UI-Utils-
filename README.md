@@ -1,7 +1,7 @@
 <h1 align="center">💎 UI-Utils++ 💎</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Minecraft-1.21.4-green?style=for-the-badge&logo=minecraft" alt="Minecraft Version">
+  <img src="https://img.shields.io/badge/Minecraft-1.21.1-green?style=for-the-badge&logo=minecraft" alt="Minecraft Version">
   <img src="https://img.shields.io/badge/Fabric-Loader-blue?style=for-the-badge&logo=fabricmc" alt="Fabric Loader">
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge">
   <img src="https://img.shields.io/github/license/USERNAME/REPO?style=for-the-badge" alt="License">
@@ -23,7 +23,7 @@ Whether you're a server administrator testing vulnerabilities or an adventurous 
 
 ## 🆕 New in This Version
 - **Exploit Testing GUI** 🖥 — A separate window for simulating and testing exploits safely.
-- **Duplication Assist Tools** 💠 — Pre-built utilities for known duplication glitches in Minecraft **1.21.4**.
+- **Duplication Assist Tools** 💠 — Pre-built utilities for known duplication glitches in Minecraft **1.21.1**.
 - **Chat Exploit Finder** 💬 — Tests and validates known chat-related vulnerabilities.
 - **Modular System** 🧩 — Toggle exploit modules individually to control your testing environment.
 - **Optimized Performance** ⚡ — Faster load times and lighter on resources compared to UI-Utils.
@@ -37,12 +37,12 @@ Whether you're a server administrator testing vulnerabilities or an adventurous 
 | **Dupe Scripts** | Built-in code for known duplication glitches. |
 | **Exploit Database** | Up-to-date exploit list with patch status. |
 | **Quick Enable/Disable** | Instantly toggle exploit modules. |
-| **Version Tracking** | Supports Minecraft **1.21.4** with auto-update alerts. |
+| **Version Tracking** | Supports Minecraft **1.21.1** with auto-update alerts. |
 
 ---
 
 ## ⚙️ Installation
-1. Download **Fabric Loader** for Minecraft **1.21.4**  
+1. Download **Fabric Loader** for Minecraft **1.21.1**  
 2. Install **Fabric API** for the matching version  
 3. Place `ui-utils++.jar` into your Minecraft `mods` folder  
 4. Launch Minecraft and configure the mod in the **Mod Menu**
